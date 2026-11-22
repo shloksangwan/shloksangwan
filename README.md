@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/canvas-neon3.svg" width="100%" alt="Shlok Sangwan: neon cyber-city profile with matrix rain, a looping video, our MVP MolBhav, contributions, stack, projects and links">
+<img src="assets/canvas-neon2.svg" width="100%" alt="Shlok Sangwan: neon cyber-city profile with matrix rain, a looping video, our MVP MolBhav, contributions, stack, projects and links">
 
 <p><a href="https://molbhav-gamma.vercel.app"><img src="assets/btn-mvp.svg" width="32%" alt="MolBhav · our MVP: molbhav-gamma.vercel.app"></a><a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="assets/btn-portfolio.svg" width="32%" alt="About me: shloksangwan.github.io"></a><a href="https://github.com/shloksangwan?tab=repositories"><img src="assets/btn-repos.svg" width="32%" alt="All repositories: github.com/shloksangwan"></a></p>
 
