@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.webp" width="100%" alt="Shlok Sangwan: animated banner with a crowned figure over flowing code">
+<img src="assets/banner-v2.webp" width="100%" alt="Shlok Sangwan: animated banner with a crowned figure over flowing code">
 
 <p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-21262d?style=flat-square&labelColor=0d1117" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Co--founder-MolBhav-21262d?style=flat-square&labelColor=0d1117" alt="Co-founder: MolBhav"> <img src="https://img.shields.io/badge/Focus-Web_development-21262d?style=flat-square&labelColor=0d1117" alt="Focus: Web development"> <img src="https://img.shields.io/badge/Mindset-Learn_%C2%B7_Build_%C2%B7_Repeat-21262d?style=flat-square&labelColor=0d1117" alt="Mindset: Learn · Build · Repeat"></p>
 
