@@ -10,9 +10,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## ✦ About me
+<img src="assets/sec-about.webp" width="100%" alt="About me">
 
 I'm **Shlok Sangwan**, a student at **UpGrad School of Technology**. I'm the co-founder of **[MolBhav](https://molbhav-gamma.vercel.app)**, a Pune startup that forecasts mandi prices for restaurants and cloud kitchens.
 
@@ -23,7 +21,7 @@ I care about clear communication, solving problems step by step, and getting bet
 - ⚽ **Outside code:** reading, playing sports and watching movies
 - 🤝 **Open to:** team projects and hackathons
 
-## 🛠️ Tech stack
+<img src="assets/sec-stack.webp" width="100%" alt="Tech stack">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github&theme=dark&perline=12" alt="HTML, CSS, JavaScript, Git, GitHub, GitHub Pages, Communication, Problem solving, Teamwork">
@@ -33,7 +31,7 @@ I care about clear communication, solving problems step by step, and getting bet
 **Tools:** `Git` · `GitHub` · `GitHub Pages`  
 **Strengths:** `Communication` · `Problem solving` · `Teamwork`
 
-## 📂 Featured projects
+<img src="assets/sec-projects.webp" width="100%" alt="Featured projects">
 
 <table>
 <tr>
@@ -89,10 +87,10 @@ I care about clear communication, solving problems step by step, and getting bet
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-## 🤝 Let's connect
+<img src="assets/sec-connect.webp" width="100%" alt="Let's connect">
 
 <p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-21262d?style=for-the-badge&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 <p align="center"><sub>Levity Energy and Awasars are team projects hosted on Arjun Malik’s GitHub.</sub></p>
+
+<img src="assets/footer.webp" width="100%" alt="Thanks for stopping by">
