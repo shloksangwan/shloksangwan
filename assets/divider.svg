@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divider">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ffd166" stop-opacity="0"/><stop offset=".5" stop-color="#ffd166" stop-opacity=".7"/><stop offset="1" stop-color="#ffd166" stop-opacity="0"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff3c4" stop-opacity="0"/><stop offset=".5" stop-color="#fff3c4"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></linearGradient>
+<filter id="w"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<style>.s{animation:s 4s ease-in-out infinite}@keyframes s{from{transform:translateX(-200px)}to{transform:translateX(1200px)}}.d{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.4}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="0" y="11" width="1200" height="2" fill="url(#l)"/>
+<rect class="s" x="0" y="9" width="200" height="6" rx="3" fill="url(#g)" filter="url(#w)"/>
+<g class="d" fill="#ffd166"><rect x="594" y="6" width="12" height="12" transform="rotate(45 600 12)"/></g>
+</svg>
