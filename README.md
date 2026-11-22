@@ -2,7 +2,7 @@
 
 <img src="assets/banner.webp" width="100%" alt="Shlok Sangwan: animated banner with a crowned figure over flowing code">
 
-<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-21262d?style=flat-square&labelColor=0d1117" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Team-MolBhav-21262d?style=flat-square&labelColor=0d1117" alt="Team: MolBhav"> <img src="https://img.shields.io/badge/Focus-Web_development-21262d?style=flat-square&labelColor=0d1117" alt="Focus: Web development"> <img src="https://img.shields.io/badge/Mindset-Learn_%C2%B7_Build_%C2%B7_Repeat-21262d?style=flat-square&labelColor=0d1117" alt="Mindset: Learn · Build · Repeat"></p>
+<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-21262d?style=flat-square&labelColor=0d1117" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Co--founder-MolBhav-21262d?style=flat-square&labelColor=0d1117" alt="Co-founder: MolBhav"> <img src="https://img.shields.io/badge/Focus-Web_development-21262d?style=flat-square&labelColor=0d1117" alt="Focus: Web development"> <img src="https://img.shields.io/badge/Mindset-Learn_%C2%B7_Build_%C2%B7_Repeat-21262d?style=flat-square&labelColor=0d1117" alt="Mindset: Learn · Build · Repeat"></p>
 
 <p><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-21262d?style=for-the-badge&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
@@ -14,11 +14,11 @@
 
 ## ✦ About me
 
-I'm **Shlok Sangwan**, a student at **UpGrad School of Technology**. I build web projects with my team, including **[MolBhav](https://molbhav-gamma.vercel.app)**, a Pune startup that forecasts mandi prices for restaurants and cloud kitchens.
+I'm **Shlok Sangwan**, a student at **UpGrad School of Technology**. I'm the co-founder of **[MolBhav](https://molbhav-gamma.vercel.app)**, a Pune startup that forecasts mandi prices for restaurants and cloud kitchens.
 
 I care about clear communication, solving problems step by step, and getting better at Git and the web every week.
 
-- 🔭 **Working on:** MolBhav with team MolBhav
+- 🔭 **Co-founding:** MolBhav with Arjun Malik
 - 🌱 **Learning:** web development, Git and GitHub
 - ⚽ **Outside code:** reading, playing sports and watching movies
 - 🤝 **Open to:** team projects and hackathons
