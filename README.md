@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Shlok Sangwan: a golden crown of thorns with an orbiting ring over falling code">
+<img src="assets/banner.webp" width="100%" alt="Shlok Sangwan: animated banner with a crowned figure over flowing code">
 
-<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-ffd166?style=flat-square&labelColor=0b1730" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Team-MolBhav-f4a62a?style=flat-square&labelColor=0b1730" alt="Team: MolBhav"> <img src="https://img.shields.io/badge/Focus-Web_development-4cc9f0?style=flat-square&labelColor=0b1730" alt="Focus: Web development"> <img src="https://img.shields.io/badge/Mindset-Learn_%C2%B7_Build_%C2%B7_Repeat-7ee2a8?style=flat-square&labelColor=0b1730" alt="Mindset: Learn · Build · Repeat"></p>
+<p><img src="https://img.shields.io/badge/Student-UpGrad_School_of_Technology-21262d?style=flat-square&labelColor=0d1117" alt="Student: UpGrad School of Technology"> <img src="https://img.shields.io/badge/Team-MolBhav-21262d?style=flat-square&labelColor=0d1117" alt="Team: MolBhav"> <img src="https://img.shields.io/badge/Focus-Web_development-21262d?style=flat-square&labelColor=0d1117" alt="Focus: Web development"> <img src="https://img.shields.io/badge/Mindset-Learn_%C2%B7_Build_%C2%B7_Repeat-21262d?style=flat-square&labelColor=0d1117" alt="Mindset: Learn · Build · Repeat"></p>
 
-<p><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-4cc9f0?style=for-the-badge&labelColor=0b1730&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-ffd166?style=for-the-badge&labelColor=0b1730&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-f4a62a?style=for-the-badge&labelColor=0b1730&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-21262d?style=for-the-badge&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
-<img src="https://komarev.com/ghpvc/?username=shloksangwan&label=Profile%20views&color=ffd166&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=shloksangwan&label=Profile%20views&color=30363d&style=flat-square" alt="Profile views">
 
 </div>
 
@@ -93,6 +93,6 @@ I care about clear communication, solving problems step by step, and getting bet
 
 ## 🤝 Let's connect
 
-<p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-4cc9f0?style=for-the-badge&labelColor=0b1730&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-ffd166?style=for-the-badge&labelColor=0b1730&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-f4a62a?style=for-the-badge&labelColor=0b1730&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p align="center"><a href="https://molbhav-gamma.vercel.app"><img src="https://img.shields.io/badge/MolBhav-Live_site-21262d?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" alt="MolBhav"></a> <a href="https://shloksangwan.github.io/Git-Project-shlok/"><img src="https://img.shields.io/badge/Portfolio-About_me-21262d?style=for-the-badge&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="https://github.com/shloksangwan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 <p align="center"><sub>Levity Energy and Awasars are team projects hosted on Arjun Malik’s GitHub.</sub></p>
