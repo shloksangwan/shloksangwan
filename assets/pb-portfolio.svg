@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 68" width="244" height="68" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<defs>
+  <filter id="edge" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="5"/></filter>
+  <filter id="ng" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+  <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a5d6ff" stop-opacity="0"/><stop offset=".5" stop-color="#a5d6ff" stop-opacity=".7"/><stop offset="1" stop-color="#a5d6ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1a2e"/><stop offset="1" stop-color="#080d18"/></linearGradient></defs>
+<style>
+.sheen{animation:sheen 9s ease-in-out infinite}
+@keyframes sheen{0%{transform:translateX(0)}30%,100%{transform:translateX(var(--d))}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}
+.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.tw1{animation:tw 3.1s ease-in-out infinite}.tw2{animation:tw 4.3s ease-in-out infinite}.tw3{animation:tw 5.7s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.95}50%{opacity:.15}}
+.draw{stroke-dasharray:100;animation:draw 4s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:100}60%,100%{stroke-dashoffset:0}}
+.car{animation:car linear infinite}@keyframes car{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+.carL{animation:carL linear infinite}@keyframes carL{from{transform:translateX(1120px)}to{transform:translateX(-120px)}}
+.scanx{animation:scanx 6s linear infinite}@keyframes scanx{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="7" y="7" width="230" height="54" rx="12" fill="none" stroke="#58a6ff" stroke-width="6.2" stroke-opacity="0.52" filter="url(#edge)"/><rect x="7" y="7" width="230" height="54" rx="12" fill="url(#glass)" fill-opacity="1"/><rect x="7" y="7" width="230" height="54" rx="12" fill="none" stroke="#58a6ff" stroke-width="1.4" stroke-opacity="0.79"/><clipPath id="nc1"><rect x="7" y="7" width="230" height="54" rx="12"/></clipPath><g clip-path="url(#nc1)"><rect x="31" y="7" width="182" height="1.2" fill="url(#topline)"/><g transform="translate(7,7) skewX(-18) translate(-7,-7)"><rect x="-163" y="7" width="130" height="54" fill="url(#gloss)" class="sheen" style="--d:630px;animation-delay:2.4s"/></g></g>
+<rect x="191" y="55" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw3" style="animation-delay:-2.7s"/><rect x="106" y="56" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw2" style="animation-delay:-1.9s"/><rect x="187" y="58" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw1" style="animation-delay:-2.2s"/><rect x="107" y="56" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw1" style="animation-delay:-1.4s"/><rect x="123" y="53" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw1" style="animation-delay:-0.3s"/><rect x="156" y="58" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw1" style="animation-delay:-0.1s"/><rect x="85" y="59" width="2" height="3" fill="#d2a8ff" opacity=".7" class="tw3" style="animation-delay:-0.9s"/><rect x="178" y="56" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw3" style="animation-delay:-1.7s"/><rect x="104" y="57" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw3" style="animation-delay:-2.2s"/><rect x="83" y="57" width="2" height="3" fill="#79c0ff" opacity=".7" class="tw3" style="animation-delay:-3.3s"/><rect x="172" y="57" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw3" style="animation-delay:-2.4s"/><rect x="192" y="57" width="2" height="3" fill="#a5d6ff" opacity=".7" class="tw3" style="animation-delay:-0.1s"/>
+<circle cx="38" cy="34.0" r="17" fill="#1f6feb" fill-opacity=".22" stroke="#58a6ff"/>
+<g transform="translate(38.0,34.0) scale(0.8)" filter="url(#ng)"><rect x="-10" y="-8" width="20" height="13" rx="2" fill="none" stroke="#e1f2ff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/><path d="M-4,10 H4 M0,5 V10 M-6,-3 H1 M-6,1 H4" fill="none" stroke="#e1f2ff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="66" y="31.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16.5" font-weight="700" fill="#f0f6fc">Portfolio</text>
+<text x="66" y="50.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#a5d6ff">live site</text>
+<text x="218" y="40.0" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#58a6ff" filter="url(#ng)">↗</text>
+</svg>
