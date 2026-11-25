@@ -1,4 +1,4 @@
-name: Update solved counts
+name: Update solved counts and GitHub stats
 
 on:
   schedule:
@@ -16,6 +16,10 @@ jobs:
       - uses: actions/checkout@v5
       - name: Fetch LeetCode, Codeforces and CodeChef counts
         run: python3 .github/scripts/update-solved.py assets/sb-leetcode.svg assets/sb-codeforces.svg assets/sb-codechef.svg assets/canvas-neon2.svg
+      - name: Fetch public repos, contributions and the contribution graph
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update-github-stats.py assets/canvas-neon2.svg
       - name: Commit if the counts changed
         run: |
           if git diff --quiet; then
@@ -24,5 +28,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update LeetCode, Codeforces and CodeChef solved counts"
+          git commit -am "Update solved counts and GitHub stats"
           git push
